@@ -13,7 +13,7 @@ Add the CreateVersionChangeMenu.cs file to the Editor folder in your Assets fold
 
 The Editor folder isn't created by default, you will have to add one.
 
-If the script isn't within the Editor folder Unity won't create a menu item for you.
+If the script isn't within the Editor folder, Unity won't create a menu item for you.
 
 ![Screenshot of Assets/Editor location](putScriptInEditorFolder.png?raw=true)
 
